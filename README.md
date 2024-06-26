@@ -1,4 +1,4 @@
-#MovyeDB
+###MovyeDB
 MovyEDB is a dynamic web application developed using React and Styled Components, powered by TheMovieDB API. It allows users to browse popular and latest movies, view detailed information about each movie including cast, budget, and ratings.
 
 #Live Demo
